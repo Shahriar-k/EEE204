@@ -1,6 +1,6 @@
 xl = 2;
 xu = 3;
-
+%% for index = vector
 for k=1:14
 xr = (xl+xu)/2;
 fxl = 2*xl+0.026*log(xl/10^-12)-5;
