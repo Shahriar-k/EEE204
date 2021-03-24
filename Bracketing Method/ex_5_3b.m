@@ -19,7 +19,7 @@ for k=1:2 %% itarating 2 times gives 10% error
    
    xr_new = (xl+xu)/2;
    
-   error = abs((xr_new - xr)/xr)*100;
+   error = abs((xr_new - xr)/xr)*100
    
    
 end
