@@ -20,7 +20,7 @@ for k = 1:5
   
   xr_new = xu-[(fxu*(xl-xu))/(fxl-fxu)];
    
-  error = abs((xr_new - xr)/xr)*100;
+  error = abs((xr_new - xr)/xr)*100
   
   
 end
