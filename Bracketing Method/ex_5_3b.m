@@ -3,7 +3,7 @@ clc
 xl = 0.5;
 xu = 1;
 
-for k=1:2
+for k=1:2 %% itarating 2 times gives 10% error
    xr = (xl+xu)/2;
    
    fxu = -25+82*xu-90*xu^2+44*xu^3-8*xu^4+0.7*xu^5;
