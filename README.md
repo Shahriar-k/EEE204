@@ -8,7 +8,6 @@ East West University
 ```
 Instructor:Dr. Redwan N. Sajjad, Assistant Professor, BUET.
 Email:noor.sajjad@ewubd.edu
-Class room:Online (Join via Google Meet link)
 Class time: SR 10:10-11:40 am
 ```
 Instructions
