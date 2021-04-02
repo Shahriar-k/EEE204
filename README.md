@@ -10,7 +10,7 @@ Instructor:Dr. Redwan N. Sajjad, Assistant Professor, BUET.
 Email:noor.sajjad@ewubd.edu
 Class time: SR 10:10-11:40 am
 ```
-# Instructions
+###### Instructions
 
 1. Check your google classroom account regularly for announcements, lecture slides, course materials etc.
 2. Your attendance and how long you have stayed in google meet for each class will be recorded.
@@ -31,7 +31,7 @@ develop necessary skills required by the students for numerical solution of comp
 5. Solve systems of equations using numerical techniques.
 6. Solve eigen-value problems using numerical techniques.
 
-# Outcomes: [CO]
+###### Outcomes: [CO]
 At the end of the course, the students are expected to
 
 1. Apply numerical techniques to solve engineering problems.
@@ -51,7 +51,7 @@ PO2 Problem analysis: Identify, formulate, research literature and analyze compl
 tronic engineering problems reaching substantiated conclusions using first principles of mathematics, natural
 sciences and engineering sciences. (K1 to K4)
 
-# Textbook
+###### Textbook
 
 Numerical Methods for Engineers, by Steven C Chapra & Raymond P Canale
 
@@ -91,7 +91,7 @@ Topics to be covered throughout the semester and tentative number of lectures fo
 
 
 
-# Class Policy:
+###### Class Policy:
 
 - Students are required to attend at least 80% of the classes. The instructor may not allow a student
     to attend classes if he/she is absent in more than 20% of the scheduled classes. Students must keep
