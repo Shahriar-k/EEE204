@@ -56,12 +56,19 @@ sciences and engineering sciences. (K1 to K4)
 Textbook:Numerical Methods for Engineers, by Steven C Chapra & Raymond P Canale
 
 Grading Policy:
+
 Quizes - 10%
+
 Mid 1 - 20%
+
 Mid 2 - 20%
+
 Final - 30%
+
 Laboratory - 15%
+
 Attendance - 5%
+
 
 Tentative Course Outline:
 Topics to be covered throughout the semester and tentative number of lectures for each topic:
