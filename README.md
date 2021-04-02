@@ -70,7 +70,7 @@ Laboratory - 15%
 Attendance - 5%
 
 
-#Tentative Course Outline:
+# Tentative Course Outline:
 Topics to be covered throughout the semester and tentative number of lectures for each topic:
 
 ## MID Term 1
