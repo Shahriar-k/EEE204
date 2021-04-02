@@ -10,20 +10,19 @@ Instructor:Dr. Redwan N. Sajjad, Assistant Professor, BUET.
 Email:noor.sajjad@ewubd.edu
 Class time: SR 10:10-11:40 am
 ```
-Instructions
+# Instructions
 
 1. Check your google classroom account regularly for announcements, lecture slides, course materials etc.
 2. Your attendance and how long you have stayed in google meet for each class will be recorded.
 
-Rationale of the course
+# Rationale of the course
 To explore complex systems in electrical engineering, one requires computational methods since real life
 mathematical models can rarely be solved algebraically. Such methods include techniques for solution of a
 complex function, function optimization, integration of function, interpolation from known value to unknown
 value, and computer algorithm to solve systems of equations or differential equations. This course aims to
 develop necessary skills required by the students for numerical solution of complex engineering problems.
 
-Course Objectives:
-The objectives of the course are to
+# Course Objectives:
 
 1. Perform error analysis for various numerical methods.
 2. Apply different numerical techniques to find solution of a function and the area under the function.
@@ -32,7 +31,7 @@ The objectives of the course are to
 5. Solve systems of equations using numerical techniques.
 6. Solve eigen-value problems using numerical techniques.
 
-Outcomes: [CO]
+# Outcomes: [CO]
 At the end of the course, the students are expected to
 
 1. Apply numerical techniques to solve engineering problems.
@@ -41,9 +40,8 @@ At the end of the course, the students are expected to
 4. Apply computational tools to analyze and design engineering problems.
 
 
-Numerical Analysis (EEE 204) Spring 2021
 
-CO-PO mapping
+# CO-PO mapping
 
 PO1 Engineering knowledge: Apply knowledge of mathematics, natural science, engineering fundamentals
 and an engineering specialization as specified in K1 to K4 respectively to the solution of complex electrical
@@ -53,9 +51,11 @@ PO2 Problem analysis: Identify, formulate, research literature and analyze compl
 tronic engineering problems reaching substantiated conclusions using first principles of mathematics, natural
 sciences and engineering sciences. (K1 to K4)
 
-Textbook:Numerical Methods for Engineers, by Steven C Chapra & Raymond P Canale
+# Textbook
 
-Grading Policy:
+Numerical Methods for Engineers, by Steven C Chapra & Raymond P Canale
+
+# Grading Policy:
 
 Quizes - 10%
 
@@ -90,9 +90,8 @@ Topics to be covered throughout the semester and tentative number of lectures fo
 7. Partial Differential Equations (Elliptic equations, parabolic equations) - 3
 
 
-Numerical Analysis (EEE 204) Spring 2021
 
-Class Policy:
+# Class Policy:
 
 - Students are required to attend at least 80% of the classes. The instructor may not allow a student
     to attend classes if he/she is absent in more than 20% of the scheduled classes. Students must keep
