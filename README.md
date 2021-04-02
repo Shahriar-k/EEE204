@@ -10,7 +10,7 @@ Instructor:Dr. Redwan N. Sajjad, Assistant Professor, BUET.
 Email:noor.sajjad@ewubd.edu
 Class time: SR 10:10-11:40 am
 ```
-###### Instructions
+# Instructions
 
 1. Check your google classroom account regularly for announcements, lecture slides, course materials etc.
 2. Your attendance and how long you have stayed in google meet for each class will be recorded.
@@ -31,7 +31,7 @@ develop necessary skills required by the students for numerical solution of comp
 5. Solve systems of equations using numerical techniques.
 6. Solve eigen-value problems using numerical techniques.
 
-###### Outcomes: [CO]
+# Outcomes: [CO]
 At the end of the course, the students are expected to
 
 1. Apply numerical techniques to solve engineering problems.
@@ -41,7 +41,7 @@ At the end of the course, the students are expected to
 
 
 
-# CO-PO mapping
+## CO-PO mapping
 
 PO1 Engineering knowledge: Apply knowledge of mathematics, natural science, engineering fundamentals
 and an engineering specialization as specified in K1 to K4 respectively to the solution of complex electrical
@@ -51,7 +51,7 @@ PO2 Problem analysis: Identify, formulate, research literature and analyze compl
 tronic engineering problems reaching substantiated conclusions using first principles of mathematics, natural
 sciences and engineering sciences. (K1 to K4)
 
-###### Textbook
+# Textbook
 
 Numerical Methods for Engineers, by Steven C Chapra & Raymond P Canale
 
@@ -70,28 +70,28 @@ Laboratory - 15%
 Attendance - 5%
 
 
-Tentative Course Outline:
+#Tentative Course Outline:
 Topics to be covered throughout the semester and tentative number of lectures for each topic:
 
-# MID Term 1
+## MID Term 1
 
 1. Introduction (Error analysis, Taylor series) - 2
 2. Roots of equations (Bracketing and open methods) - 4
 3. Solution of equations (Gauss elimination, LU decomposition, matrix inversion, Gauss-Seidel) - 2
 
-# Mid Term - 2
+## Mid Term - 2
 
 4. Curve fitting (Least-Squares regression, Interpolation) - 4
 5. Numerical Differentiation and Integration (Newton-Cotes Integration formulae) - 3
 
-# Final Term
+## Final Term
 
 6. Ordinary differential equations (Runge-Kutta methods, boundary value and eigenvalue problems) - 4
 7. Partial Differential Equations (Elliptic equations, parabolic equations) - 3
 
 
 
-###### Class Policy:
+# Class Policy:
 
 - Students are required to attend at least 80% of the classes. The instructor may not allow a student
     to attend classes if he/she is absent in more than 20% of the scheduled classes. Students must keep
