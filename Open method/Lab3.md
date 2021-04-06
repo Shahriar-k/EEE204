@@ -17,15 +17,24 @@ CV0/2 ?
 
 ## REPORT:
 1. Write the equation in f(t) = 0 form and plot f(t) using MATLAB (from t = 0 to τ).
+
 2. Write a MATLAB code to calculate the root of the function using secant method (do 7
 iterations). Assume the initial guesses: t−1 = 0.8τ and t0 = τ.
+
 3. Solutions:
+
 a. What is your solution after 7 iterations?
+
 b. What is the true solution found from wolfram?
+
 c. Find relative true error using the solution after 7-iterations.
+
 4. Now set your code for 12-iterations:
+
 a. Plot i-th solution *(ti)* vs iteration *(i)*.
+
 b. Plot relative apparent error vs. iteration.
+
 c. If you check the values of ***ti*** from matlab workspace, you will see that the values
 are NaN (not a number) after 8 or 9 iterations. Explain why there is no solution
 after 8 or 9 iterations.
