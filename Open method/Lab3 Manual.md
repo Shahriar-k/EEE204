@@ -16,9 +16,9 @@ Assume R = 0.1 MΩ and C = 1 μF. We want to find: at what time t does the charg
 CV0/2 ?
 
 ## REPORT:
-1. Write the equation in f(t) = 0 form and plot f(t) using MATLAB (from t = 0 to τ).
+1.Write the equation in f(t) = 0 form and plot f(t) using MATLAB (from t = 0 to τ).
 
-2. Write a MATLAB code to calculate the root of the function using secant method (do 7
+2.Write a MATLAB code to calculate the root of the function using secant method (do 7
 iterations). Assume the initial guesses: t−1 = 0.8τ and t0 = τ.
 
 3.Solutions:
