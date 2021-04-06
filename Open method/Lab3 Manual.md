@@ -40,4 +40,5 @@ are NaN (not a number) after 8 or 9 iterations. Explain why there is no solution
 after 8 or 9 iterations.
 
 Not required (interested students can try it out):
+
 1.Compare error vs iteration plots for different methods.
