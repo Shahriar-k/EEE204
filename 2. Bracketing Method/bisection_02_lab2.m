@@ -10,7 +10,7 @@ fxr = 2*xl+0.026*log(xr/10^-12)-5;
 if fxr*fxu < 0
     xl = xr;
 else
-    xu = xr;
+    xu= xr;
 end
 
 xr_new = (xl+xu)/2;
