@@ -27,7 +27,7 @@ title('Sine Graph V/s. Final Taylor Series');
 hold on
 plot(x,f,'b')
 plot(x,T6,'r')
-legend('sin(x)','TaylorExp');
+legend('sin(x)','Taylor Exp');
 ylim([-4,4])
 hold off
 grid on
